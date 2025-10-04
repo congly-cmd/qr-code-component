@@ -4,7 +4,7 @@ This is my solution to the [QR code component challenge](https://www.frontendmen
 
 ## Overview
 ### Screenshot
-![](design/desktop design.png)
+![](design/desktop-design.png)
 ![](design/mobile-design.png)
 
 ### Links
@@ -17,7 +17,7 @@ This is my solution to the [QR code component challenge](https://www.frontendmen
 - CSS3 (Flexbox)
 
 ### What I learned
-I learned how to center a card using Flexbox and how to structure a simple component. Very useful for me
+ I learned the importance of using semantic landmarks. At first, my solution was missing a <main> element and some content was not wrapped inside landmarks. After fixing this, the accessibility checks passed.
 
 ## Author
 - Frontend Mentor - [@congly-cmd](https://www.frontendmentor.io/profile/congly-cmd)

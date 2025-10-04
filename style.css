@@ -22,6 +22,7 @@ body{
 
 .qr-card img{
     width: 300px;
+    max-width: 100%;
     border-radius: 10px;
     height: auto;
     margin: 10px;
